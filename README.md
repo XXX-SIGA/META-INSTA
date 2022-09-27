@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=8A2BE2&background=000000&center=true&vCenter=true&width=360&height=60&lines=INI+ADALAH%2C+CRACK+AKUN+INSTAGRAM💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=8A2BE2&background=000000&center=true&vCenter=true&width=350&height=50&lines=INI+ADALAH%2C+CRACK+AKUN+INSTAGRAM💻)](https://git.io/typing-svg)
 
 
 </p>
