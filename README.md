@@ -1,7 +1,7 @@
 
 <h3 align="left">Cara Install Script:</h3>
 
-- Download Apk Termuxnya Disini Biar Engga Erorr <a href="https://bit.ly/Link-termuxxxx">Klik Disini</a>
+- Download Apk Termuxnya Disini Biar Engga Erorr <a href="[https://bit.ly/Link-termuxxxx](https://f-droid.org/repo/com.termux_117.apk)">Klik Disini</a>
 
 - lalu buka aplikasinya ketikan perintah dibawah ini.
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Cara Menjalankan Script:</h3>
 
-       $ cd 
+       $ cd META-INSTA
        $ git pull
-       $ python
+       $ python meta-ig.py
 
 
 <h3 align="left">Harga License:</h3>
