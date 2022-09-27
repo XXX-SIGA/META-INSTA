@@ -8,13 +8,13 @@
        $ pkg update && pkg upgrade
        $ pkg install python 
        $ pkg install git
-       $ pkg install play-audio
-       $ pip install requests 
+       $ pip install requests
        $ pip install stdiomask
        $ pip install futures
        $ pip install mechanize
        $ pip install bs4
        $ pip install rich
+       $ git clone https://github.com/XXX-SIGA/META-INSTA
        
 
 <h3 align="left">Cara Menjalankan Script:</h3>
