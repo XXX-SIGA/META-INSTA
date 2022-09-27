@@ -32,7 +32,7 @@
 
 <h3 align="left">Klik Dibawah Sini Untuk informasi Contact:</h3>
 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/XXX-SIGA
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/XXX-SIGA)
 
 
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/kemas.rifki.75)
