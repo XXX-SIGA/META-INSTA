@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=27&color=8A2BE2&background=000000&center=true&vCenter=true&width=700&height=80&lines=+😈+INI+ADALAH+SCRIPT+CRACK+AKUN+INSTAGRAM+😈)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=27&color=8A2BE2&background=000000&center=true&vCenter=true&width=700&height=80&lines=+😈+SCRIPT+MASIH+DALAM+TAHAP+PERBAIKAN+😪)](https://git.io/typing-svg)
+
 
 </p>
 
