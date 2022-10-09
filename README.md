@@ -1,4 +1,4 @@
-# CRACK INSTAGRAM
+# INI ADALAH SCRIPT CRACK INSTAGRAM
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=27&color=8A2BE2&background=000000&center=true&vCenter=true&width=700&height=80&lines=+😈+INI+ADALAH+SCRIPT+CRACK+AKUN+INSTAGRAM+😈)](https://git.io/typing-svg)
 
@@ -31,12 +31,6 @@
        $ git pull
        $ python meta-ig.py
 
-
-<h3 align="left">Harga License:</h3>
-     
-     - 1 minggu          : 35.000
-     - Permanen          : 50.000
-     - File Open Source  : 200.000
 
 <h3 align="left">Klik Dibawah Sini Untuk informasi Contact:</h3>
 
