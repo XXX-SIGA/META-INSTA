@@ -1,4 +1,4 @@
-# INI ADALAH SCRIPT CRACK INSTAGRAM
+#SCRIPT CRACK INSTAGRAM
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=27&color=8A2BE2&background=000000&center=true&vCenter=true&width=700&height=80&lines=+😈+INI+ADALAH+SCRIPT+CRACK+AKUN+INSTAGRAM+😈)](https://git.io/typing-svg)
 
