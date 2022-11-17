@@ -35,7 +35,7 @@
 # Menu Login
 ![img](https://github.com/XXX-SIGA/META-INSTA/blob/main/IMG_20221118_013845.jpg)
 # Menu Utama
-![img](https://github.com/XXX-SIGA/META-INSTA/blob/main/IMG_20221118_013817.jpg)
+![img](https://github.com/XXX-SIGA/META-INSTA/blob/main/IMG_20221118_030929.jpg)
 
 # Hasil Dari Script META-INSTA
 ![img](https://github.com/XXX-SIGA/META-INSTA/blob/main/IMG_20221118_014029.jpg)
