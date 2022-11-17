@@ -34,7 +34,7 @@
        $ python meta-ig.py
 
 # Hasil Dari Script META-INSTA
-![img](https://github.com/Xenzi-XN1/OBF-PY3/blob/main/IMG_20220829_152707.jpg)
+![img](https://github.com/XXX-SIGA/META-INSTA/blob/main/IMG_20221118_014029.jpg)
 
 <h3 align="left">Klik Dibawah Sini Untuk informasi Contact:</h3>
 
