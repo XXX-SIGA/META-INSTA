@@ -32,6 +32,8 @@
        $ cd META-INSTA
        $ git pull
        $ python meta-ig.py
+# Menu utama
+![img](https://github.com/XXX-SIGA/META-INSTA/blob/main/IMG_20221118_013817.jpg)
 
 # Hasil Dari Script META-INSTA
 ![img](https://github.com/XXX-SIGA/META-INSTA/blob/main/IMG_20221118_014029.jpg)
