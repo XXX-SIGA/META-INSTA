@@ -19,6 +19,7 @@
        $ pkg install python 
        $ pkg install git
        $ pip install requests
+       $ pip install pycryptodome
        $ pip install stdiomask
        $ pip install futures
        $ pip install mechanize
